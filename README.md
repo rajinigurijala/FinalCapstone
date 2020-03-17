@@ -29,20 +29,20 @@ We used the VGG-like model to generate the 128-dimensional features using the [a
 
 [View Final Capstone Jupyter Notebook Here](https://github.com/rajinigurijala/FinalCapstone/blob/master/UrbanSound_Final_Capstone.ipynb)
 
-[View Jupyter notebook - DeepNN with GridSearch](https://github.com/rajinigurijala/FinalCapstone/blob/master/UrbanSoundKeras_GridSearch.ipynb) 
+[View DeepNN using GridSearch](https://github.com/rajinigurijala/FinalCapstone/blob/master/UrbanSoundKeras_GridSearch.ipynb) 
 
-[View Jupyter notebook - DeepNN with Keras Tuner](https://github.com/rajinigurijala/FinalCapstone/blob/master/UrbanSoundKeras_Tuner.ipynb) using RandomSearch and Hyperband.
+[View DeepNN using Keras Tuner](https://github.com/rajinigurijala/FinalCapstone/blob/master/UrbanSoundKeras_Tuner.ipynb)
 
-[View Jupyter notebook - CNN with Sci-Kit Optimize](https://github.com/rajinigurijala/FinalCapstone/blob/master/UrbanSoundKeras_CNN.ipynb).
+[View CNN with using Kit Optimize](https://github.com/rajinigurijala/FinalCapstone/blob/master/UrbanSoundKeras_CNN.ipynb)
 
 
 
 ## References
 
-    1. [VGGish Audio Embedding Colab](https://colab.research.google.com/drive/1TbX92UL9sYWbdwdGE0rJ9owmezB-Rl1C#scrollTo=DaMrmOEvC7L4)
-    2. [Hyperparameter Optimization in TensorFlow](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/19_Hyper-Parameters.ipynb)
-    3. [Hyperparameter Tuning using Keras Tuner](https://www.sicara.ai/blog/hyperparameter-tuning-keras-tuner)
-    4. [Jupyter Markdown Cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+1. [VGGish Audio Embedding Colab](https://colab.research.google.com/drive/1TbX92UL9sYWbdwdGE0rJ9owmezB-Rl1C#scrollTo=DaMrmOEvC7L4)
+2. [Hyperparameter Optimization in TensorFlow](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/19_Hyper-Parameters.ipynb)
+3. [Hyperparameter Tuning using Keras Tuner](https://www.sicara.ai/blog/hyperparameter-tuning-keras-tuner)
+
 
 ## Technologies Used
 - Python, Numpy, Pandas, Matplotlib, Seaborn, SKLearn, Librosa, Audioset
