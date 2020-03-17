@@ -26,6 +26,7 @@ We used the VGG-like model to generate the 128-dimensional features using the [a
 
 ## Model Evaluation
 
+We will evaluate 4 different models in this project – Support Vector Machine, Random Forest, Deep Neural Networks and Convolutional Neural Networks. 
 
 [View Final Capstone Jupyter Notebook Here](https://github.com/rajinigurijala/FinalCapstone/blob/master/UrbanSound_Final_Capstone.ipynb)
 
