@@ -35,7 +35,9 @@ We used the VGG-like model to generate the 128-dimensional features using the [a
 
 [View CNN with using Kit Optimize](https://github.com/rajinigurijala/FinalCapstone/blob/master/UrbanSoundKeras_CNN.ipynb)
 
+## Project Report
 
+View: [Urban Sound Classification Project Report](https://github.com/rajinigurijala/FinalCapstone/blob/master/Audio%20Classification%20Project%20Report.pdf)
 
 ## References
 
