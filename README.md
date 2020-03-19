@@ -28,12 +28,18 @@ We used the VGG-like model to generate the 128-dimensional features using the [a
 
 We will evaluate 4 different models in this project – Support Vector Machine, Random Forest, Deep Neural Networks and Convolutional Neural Networks. 
 
+The preprocessed audio data with 896 dimensions and 8275 observations is split into 80% training data set and 20% test data set. The data has been scaled using the Standard Scaler prior to modeling.
+
+We have performed GridSearchCV on Support Vector Machine and Random Forest models. These 2 models are trained on training dataset using the best parameters.
 [View Final Capstone Jupyter Notebook Here](https://github.com/rajinigurijala/FinalCapstone/blob/master/UrbanSound_Final_Capstone.ipynb)
 
+We used the Artificial Neural Networks to train the DeepNN model and evaluated. In this model GridSearchCV has been used for Hyperparamter optimization.
 [View DeepNN using GridSearch](https://github.com/rajinigurijala/FinalCapstone/blob/master/UrbanSoundKeras_GridSearch.ipynb) 
 
+Alternatively we created additional DeepNN model using Keras Tuner for optimizing and tuning the hyperparameters.
 [View DeepNN using Keras Tuner](https://github.com/rajinigurijala/FinalCapstone/blob/master/UrbanSoundKeras_Tuner.ipynb)
 
+Finally we trained CNN model using SciKit Optimize. We reshaped the 1-dimenstional (896 attributes) dataset to 2-Dimensional (64x14) so that the CNN model can be trained and tested.
 [View CNN with using Kit Optimize](https://github.com/rajinigurijala/FinalCapstone/blob/master/UrbanSoundKeras_CNN.ipynb)
 
 ## Project Report
