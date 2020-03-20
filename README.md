@@ -40,7 +40,7 @@ The preprocessed audio data with 896 dimensions and 8275 observations is split i
 [View DeepNN using Keras Tuner](https://github.com/rajinigurijala/FinalCapstone/blob/master/UrbanSoundKeras_Tuner.ipynb)
 
 - Lastly, we trained CNN model using SciKit Optimize. We reshaped the 1-dimenstional (896 attributes) dataset to 2-Dimensional (64x14) so that the CNN model can be trained and tested.
-[View CNN with using Si-Kit Optimize](https://github.com/rajinigurijala/FinalCapstone/blob/master/UrbanSoundKeras_CNN.ipynb)
+[View CNN with using Sci-Kit Optimize](https://github.com/rajinigurijala/FinalCapstone/blob/master/UrbanSoundKeras_CNN.ipynb)
 
 The supervised machine learning and newural network models were evaluated using the accuracy scores and confusion matrix to select best performing model.
 
